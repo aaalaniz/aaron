@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+  - toc
+---
+# About
+Android Platform Engineer & Tech Lead at [Twilio](https://www.twilio.com/).
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I am an Android focused (remote) engineer based out of Corpus Christi, TX with a proven track record of high-impact individual contributing and effective small team technical leadership.
 
-## Commands
+# Contact
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Email](mailto:aaron@aalaniz.com)
+- [Github](https://github.com/aaalaniz/)
+- [Twitter](https://twitter.com/aaron_aalaniz)
+- [LinkedIn](https://www.linkedin.com/in/aaron-alaniz/)

@@ -1,6 +1,8 @@
-site_name: Aaron
+site_name: Aaron Alaniz
 theme:
   name: material
+  features:
+    - navigation.tabs
   palette:
     - scheme: default
       primary: teal
