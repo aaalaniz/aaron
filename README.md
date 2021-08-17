@@ -1,1 +1,1 @@
-A personal website with my contact information, blog, and resume.
+A personal website with my contact information.
