@@ -3,6 +3,10 @@ hide:
   - navigation
   - toc
 ---
+
+<img width="128px" src="assets/profile-pic.png"/>
+</br>
+
 # About
 Android Platform Engineer & Tech Lead at [Twilio](https://www.twilio.com/).
 
