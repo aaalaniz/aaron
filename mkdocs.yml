@@ -1,6 +1,8 @@
 site_name: Aaron Alaniz
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.tabs
   palette:
