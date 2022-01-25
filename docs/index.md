@@ -8,9 +8,9 @@ hide:
 </br>
 
 # About
-Android Platform Engineer & Tech Lead at [Twilio](https://www.twilio.com/).
+Android Engineer at [Square](https://squareup.com).
 
-I am an Android focused (remote) engineer based out of Corpus Christi, TX with a proven track record of high-impact individual contributing and effective small team technical leadership.
+I am an Android focused (remote) engineer based out of Corpus Christi, TX with a proven track record of valuable individual contributing and effective small team technical leadership.
 
 # Contact
 
